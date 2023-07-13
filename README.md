@@ -8,6 +8,6 @@
 - colorama
 
 # Installation
-- git clone
+- git clone https://github.com/the-glitch69/weather.git
 - sudo apt-get update
 - pip3 install -r requirements.txt
