@@ -3,7 +3,7 @@ from colorama import Fore, Style
 
 url = "https://weatherapi-com.p.rapidapi.com/current.json"
 
-querystring = {"q": "6.2644,100.4202"} # Change the latitude and longitude based on where you live
+querystring = {"q": "53.1,-0.13"} # Change the latitude and longitude based on where you live
 
 headers = {
     "X-RapidAPI-Key": "Your-Api-Key", # Change the "Your-Api-Key" with your api key. You can get the api here. https://rapidapi.com/weatherapi/api/weatherapi-com
